@@ -12,7 +12,7 @@ public class MyExt extends SalesOrderHeaderBaseService {
     @Override
     public void fetch(String domainCode, String salesOrderNumber, Output<SalesOrderHeaderDataSet> dsSalesOrderHeader)
             throws BCExecutionError {
-        // TODO Auto-generated method stub 11
+        // TODO Auto-generated method stub
         super.fetch(domainCode, salesOrderNumber, dsSalesOrderHeader);
     }
 
